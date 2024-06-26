@@ -1,18 +1,8 @@
-# streamlit
-# langchain
-# langchain-openai
-# chromadb
-# pysqlite3-binary
-# tiktoken
-# PyPDF2
-# faiss-cpu
-
-streamlit==1.36.0
-pysqlite3==0.4.6
-PyPDF2==3.0.1
-langchain-openai==0.0.15
-openai==0.27.0
-chromadb==0.3.21
-langchain-community==0.0.2
-faiss-cpu==1.7.2
-
+streamlit
+langchain
+langchain-openai
+chromadb
+pysqlite3-binary
+tiktoken
+PyPDF2
+faiss-cpu
